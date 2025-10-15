@@ -18,11 +18,3 @@ CREATE TABLE IF NOT EXISTS users(
 DROP TABLE users;
 
 -- +goose StatementEnd
-
-{
-    "firstName": "sas",
-    "lastname": "sds",
-    "email": "sds@gmail.com",
-    "username": "sdsd",
-    "password": "sdsd"
-}
